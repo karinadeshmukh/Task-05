@@ -30,7 +30,7 @@ Build a **Weather Web Application** that:
 - **HTML** – Structure  
 - **CSS** – Styling and layout  
 - **JavaScript** – API fetching, DOM updates, and interactivity  
-- **Weather API** – (like OpenWeatherMap or similar)
+- **Weather API** – Openweather 
 
 ---
 
